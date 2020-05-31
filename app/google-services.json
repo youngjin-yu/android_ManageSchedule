@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "284478627417",
+    "firebase_url": "https://manageyourschedule-bfba2.firebaseio.com",
+    "project_id": "manageyourschedule-bfba2",
+    "storage_bucket": "manageyourschedule-bfba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284478627417:android:ed4d07236c809d0bda5b48",
+        "android_client_info": {
+          "package_name": "com.myproject.manageyourschedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284478627417-kl2mltvf0deom3ilavnfr6qq16d7ml1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDTjPjLADG125OFv0OwfLphoQIrRUwODk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284478627417-kl2mltvf0deom3ilavnfr6qq16d7ml1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

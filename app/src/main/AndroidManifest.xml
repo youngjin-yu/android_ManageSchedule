@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.myproject.manageyourschedule">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+
+
+    <application
+        android:name="com.myproject.manageyourschedule.App"
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="LockedOrientationActivity"
+        android:usesCleartextTraffic="true">
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="" />
+
+        <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+
+        <activity
+            android:name="com.myproject.manageyourschedule.activities.StudyScheduleActivity"
+            android:label="@string/studySchedule"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.myproject.manageyourschedule.activities.StudyScheduleAddActivity"
+            android:label="@string/studyScheduleAdd"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.myproject.manageyourschedule.activities.StudyScheduleUpdateActivity"
+            android:label="@string/viewDetails"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.myproject.manageyourschedule.activities.OtherScheduleUpdateActivity"
+            android:label="@string/viewDetails"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.myproject.manageyourschedule.activities.OtherScheduleAddActivity"
+            android:label="@string/otherScheduleAdd"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.myproject.manageyourschedule.activities.AddScheduleActivity"
+            android:label="@string/addWork"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.myproject.manageyourschedule.activities.ViewByDateActivity"
+            android:label="@string/viewbydate"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.myproject.manageyourschedule.activities.ViewDetailsActivity"
+            android:label="@string/viewDetails"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.myproject.manageyourschedule.activities.FindPasswordActivity"
+            android:label="@string/findPassword"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.myproject.manageyourschedule.activities.OtherScheduleActivity"
+            android:label="@string/otherSchedule"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.myproject.manageyourschedule.activities.ResetPasswordActivity"
+            android:label="@string/resetPassword"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.myproject.manageyourschedule.activities.SettingsActivity"
+            android:label="@string/settings"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.myproject.manageyourschedule.activities.SignUpActivity"
+            android:label="@string/signup"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.myproject.manageyourschedule.activities.MainActivity"
+            android:label="@string/main"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name="com.myproject.manageyourschedule.activities.MapActivity"
+            android:label="@string/showGoogleMap"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name="com.soundcloud.android.crop.CropImageActivity" />
+        <activity
+            android:name="com.myproject.manageyourschedule.activities.LoginActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+        <service
+            android:name="com.myproject.manageyourschedule.service.NotifyService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <service
+            android:name="com.myproject.manageyourschedule.service.NotifyStartScheduleService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <service
+            android:name="com.myproject.manageyourschedule.service.NotifyEndScheduleService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.myproject.manageyourschedule"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_path" />
+        </provider>
+
+        <receiver
+            android:name="com.myproject.manageyourschedule.receiver.MyReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <!--<intent-filter>
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED"/>
+            </intent-filter>-->
+        </receiver>
+    </application>
+
+</manifest>

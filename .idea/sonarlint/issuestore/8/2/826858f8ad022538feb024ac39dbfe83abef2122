@@ -1,0 +1,67 @@
+
+¤
+java:S1186“"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ8™Þ»Ì•.
+j
+java:S1192ñ"GDefine a constant instead of duplicating this literal "/path/" 5 times.(ð¤Æþýÿÿÿÿ8÷ºíè•.
+^	java:S125è"<This block of commented-out lines of code should be removed.(îÄ®þÿÿÿÿ8Äî‹¹—.
+U
+java:S2589æ"7Remove this expression which always evaluates to "true"(ºÒ¸÷8ÙÀ©Ø•.
+F
+java:S1148†"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÙÀ©Ø•.
+F
+java:S1148Ä"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8÷ºíè•.
+F	java:S108ã")Either remove or fill this block of code.(Ãôþ•8ÙÀ©Ø•.
+^	java:S125Î"<This block of commented-out lines of code should be removed.(äè¨üýÿÿÿÿ8ÝÝÉž•.
+t
+java:S3776p"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ž¨Œþÿÿÿÿ8™Þ»Ì•.
+…
+java:S1450h"cRemove the "photoPathFromGallery" field and declare it as a local variable in the relevant methods.(ßÍºùÿÿÿÿ8‘´÷è•.
+m	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ž¡t8ÙÀ©Ø•.
+e
+java:S2259Â"GA "NullPointerException" could be thrown; "outStream" is nullable here.(®ø§ä8÷ºíè•.
+f
+java:S2583Š"CChange this condition so that it does not always evaluate to "true"(ˆ¼à±ùÿÿÿÿ8ÙÀ©Ø•.
+O
+java:S1481“",Remove this unused "timeNow" local variable.(•ñ§†ýÿÿÿÿ8Ÿ‰äè•.
+V
+java:S1197Ô"8Move the array designator from the variable to the type.(±‘ãˆ8ÝÝÉž•.
+p	java:S100¯"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ÖÞøÿÿÿÿ8÷ºíè•.
+F
+java:S1148›"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÉíÛè•.
+Ÿ
+java:S1186›"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Œœ¢8ÝÝÉž•.
+^	java:S125—"<This block of commented-out lines of code should be removed.(Ó¬¬ÿÿÿÿÿ8ÉíÛè•.
+F
+java:S1148ß"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÙÀ©Ø•.
+i	java:S116m"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–•µE8ÄÄŽ¹—.
+F
+java:S1148¿"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8÷ºíè•.
+Y	java:S125š"<This block of commented-out lines of code should be removed.(ÑÈûº8Ÿ‰äè•.
+^
+java:S1854“";Remove this useless assignment to local variable "timeNow".(•ñ§†ýÿÿÿÿ8Ÿ‰äè•.
+^	java:S125”"<This block of commented-out lines of code should be removed.(Îùªúÿÿÿÿ8ÙÀ©Ø•.
+ƒ
+java:S1128:"aRemove this unused import 'com.teamnova.manageyourschedule.activities.MainActivity.refTimestamp'.(œ¦áÄÿÿÿÿÿ8Äî‹¹—.
+¤
+java:S1186©"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ8™Þ»Ì•.
+¤
+java:S1186¿"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ8™Þ»Ì•.
+F
+java:S1148ˆ"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÙÀ©Ø•.
+_	java:S899º"BDo something with the "boolean" value returned by "createNewFile".(ÝåÞê8÷ºíè•.
+M
+java:S2093¹"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8÷ºíè•.
+F
+java:S1148Ý"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÙÀ©Ø•.
+c
+java:S2147Þ"ECombine this catch with the one at line 607, which has the same body.(ï­£Ä8ÙÀ©Ø•.
+^	java:S899Ô"BDo something with the "boolean" value returned by "createNewFile".(Ñë¿T8ÙÀ©Ø•.
+Q
+java:S1068a"/Remove this unused "preferences" private field.(„€Àóûÿÿÿÿ8ÝÝÉž•.
+Ÿ
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Œœ¢8ÝÝÉž•.
+G
+java:S1068b"*Remove this unused "editor" private field.(–ñèˆ8äÅè„•.
+Y	java:S125˜"<This block of commented-out lines of code should be removed.(ŠýÜÒ8ÙÀ©Ø•.
+€
+java:S11286"^Remove this unused import 'com.teamnova.manageyourschedule.activities.LoginActivity.database'.(òÛëÝÿÿÿÿÿ8Äî‹¹—.

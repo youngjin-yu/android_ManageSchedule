@@ -1,0 +1,82 @@
+
+o
+java:S1104G"YMake whichSchedule a static final constant or non-public and provide accessors if needed.(ºýÀ­
+O
+java:S1197Ã"8Move the array designator from the variable to the type.(±‘ãˆ
+?	java:S108ç")Either remove or fill this block of code.(Ãôþ•
+˜
+java:S1186†"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Œœ¢
+W	java:S125»"<This block of commented-out lines of code should be removed.(Ó¬¬ÿÿÿÿÿ
+?
+java:S1148Š"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+L
+java:S1068^"1Remove this unused "savedRealPath" private field.(“‡çòûÿÿÿÿ
+R	java:S125°"<This block of commented-out lines of code should be removed.(ÜÛž‰
+W	java:S125´"<This block of commented-out lines of code should be removed.(Îùªúÿÿÿÿ
+R	java:S125¸"<This block of commented-out lines of code should be removed.(ŠýÜÒ
+N
+java:S2589ê"7Remove this expression which always evaluates to "true"(ºÒ¸÷
+?
+java:S1148å"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+
+java:S1186®"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ
+^
+java:S2259ˆ"GA "NullPointerException" could be thrown; "outStream" is nullable here.(®ø§ä
+˜
+java:S1186‹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Œœ¢
+R
+java:S2696Ñ"6Make the enclosing method "static" or remove this set.(àã±žÿÿÿÿÿ
+F
+java:S2093ÿ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+˜
+java:S1186¨"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Œœ¢
+=
+java:S1068H"'Remove this unused "TAG" private field.(úªÃ
+c
+java:S1192÷"GDefine a constant instead of duplicating this literal "/path/" 5 times.(Ô¾µÁÿÿÿÿÿ
+W	java:S125“"<This block of commented-out lines of code should be removed.(›úâÊüÿÿÿÿ
+I
+java:S1444G"3Make this "public static whichSchedule" field final(ºýÀ­
+?
+java:S1148¶"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?
+java:S1148¿"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(Îùªúÿÿÿÿ
+W	java:S899Ú"BDo something with the "boolean" value returned by "createNewFile".(Ñë¿T
+W
+java:S1854Ã";Remove this useless assignment to local variable "timeNow".(•ñ§†ýÿÿÿÿ
+X	java:S899€"BDo something with the "boolean" value returned by "createNewFile".(ÝåÞê
+R	java:S125ë"<This block of commented-out lines of code should be removed.(°°¦
+W	java:S125¡"<This block of commented-out lines of code should be removed.(Ûíô•øÿÿÿÿ
+_
+java:S2583º"CChange this condition so that it does not always evaluate to "true"(ˆ¼à±ùÿÿÿÿ
+f	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ž¡t
+
+java:S1186˜"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ
+˜
+java:S1186¿"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Œœ¢
+?
+java:S1148«"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+b	java:S128™"LEnd this switch case with an unconditional break, return or throw statement.(ÏÀù¦
+H
+java:S1481Ã",Remove this unused "timeNow" local variable.(•ñ§†ýÿÿÿÿ
+~
+java:S1450_"cRemove the "photoPathFromGallery" field and declare it as a local variable in the relevant methods.(ßÍºùÿÿÿÿ
+M
+java:S2696Ô"6Make the enclosing method "static" or remove this set.(¶ð—Å
+\
+java:S2147ä"ECombine this catch with the one at line 482, which has the same body.(ï­£Ä
+m
+java:S3776c"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ž¨Œþÿÿÿÿ
+R	java:S125È"<This block of commented-out lines of code should be removed.(ŠýÜÒ
+?
+java:S1148ã"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+G
+java:S1172¯"+Remove this unused method parameter "view".(ãœÇ½ùÿÿÿÿ
+i	java:S100õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ÖÞøÿÿÿÿ
+
+java:S1186‚"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ
+?
+java:S1148…"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+˜
+java:S1186º"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Œœ¢

@@ -1,0 +1,40 @@
+
+t
+java:S1104&"WMake gMailSender a static final constant or non-public and provide accessors if needed.(¸´¾Â8 ŠÉ—‹.
+O
+java:S1068$"2Remove this unused "countDownTimer" private field.(¯ÛÍğ8×Ø ì—.
+G
+java:S1444("*Make this "public static code" field final(”Ş¶Ë8—ì—.
+G
+java:S1659"*Declare "codeEditText" on a separate line.(Àëùé8·ŞÔ‡‹.
+o	java:S116-"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã·³Üüÿÿÿÿ8’•ñõ—.
+m
+java:S1104("PMake code a static final constant or non-public and provide accessors if needed.(”Ş¶Ë8—ì—.
+y
+java:S1104)"WMake limitNumber a static final constant or non-public and provide accessors if needed.(…İ™ìûÿÿÿÿ8ùÛÆ÷—.
+S
+java:S1444)"1Make this "public static limitNumber" field final(…İ™ìûÿÿÿÿ8ùÛÆ÷—.
+L
+java:S1444+"*Make this "public static flag" field final(×Ùğåÿÿÿÿÿ8²ïà÷—.
+8
+java:S3626R"Remove this redundant jump.(ûÁİ…8ó´³ˆ‹.
+]	java:S125W"<This block of commented-out lines of code should be removed.(Ñ²“êûÿÿÿÿ8ùÒ‘ë—.
+Y
+java:S2696"6Make the enclosing method "static" or remove this set.(üá…øùÿÿÿÿ8ùÛÆ÷—.
+K
+java:S1659!")Declare "emailLayout" on a separate line.(Ãş¿€şÿÿÿÿ8ØÛ›‹.
+r
+java:S1104+"PMake flag a static final constant or non-public and provide accessors if needed.(×Ùğåÿÿÿÿÿ8²ïà÷—.
+E
+java:S1659 "#Declare "okBtn" on a separate line.(Ş¶óÂùÿÿÿÿ8™‰ˆ‹.
+X
+java:S2696k"6Make the enclosing method "static" or remove this set.(ÚÄ¦òøÿÿÿÿ8„÷û÷—.
+v
+java:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆêÿ8¿Œ¤ê—.
+I
+java:S1068-"'Remove this unused "TAG" private field.(Ã·³Üüÿÿÿÿ8‡ÌŸ÷—.
+X	java:S125i"<This block of commented-out lines of code should be removed.(”œöû8×Ø ì—.
+Y
+java:S2696Œ"6Make the enclosing method "static" or remove this set.(³ÖÉÿÿÿÿÿ8µš´ø—.
+j
+java:S1192?"HDefine a constant instead of duplicating this literal "#C0C0C0" 5 times.(¶ğû‘ıÿÿÿÿ8ÃÔĞ–‹.

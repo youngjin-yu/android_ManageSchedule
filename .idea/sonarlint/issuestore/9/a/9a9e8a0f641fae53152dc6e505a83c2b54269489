@@ -1,0 +1,16 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ÿ³ì…ùÿÿÿÿ
+h	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÔŽùÿÿÿÿ
+Q	java:S125""<This block of commented-out lines of code should be removed.(¾Á·‹
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(ˆ§€Äþÿÿÿÿ
+P	java:S125$"<This block of commented-out lines of code should be removed.(˜ßÂ)
+Z
+java:S2147%"DCombine this catch with the one at line 35, which has the same body.(°±âÝ
+>
+java:S1148("#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(µƒ®³þÿÿÿÿ
+V	java:S125&"<This block of commented-out lines of code should be removed.(êã½Õÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(½Ì±Ñþÿÿÿÿ
+B
+java:S1068"'Remove this unused "TAG" private field.(–ÔŽùÿÿÿÿ

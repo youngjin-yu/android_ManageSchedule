@@ -1,0 +1,182 @@
+
+–
+java:S1319g"yThe type of the "myScheduleList" object should be an interface such as "List" rather than the implementation "ArrayList".(Á¦ˆŒ8œñ¾—.
+Y	java:S125Ï"<This block of commented-out lines of code should be removed.(¬ç•ç8œñ¾—.
+M
+java:S3740ç"/Provide the parametrized type for this generic.(ÒùÆ°8çäò·¦.
+Q
+java:S1444g"4Make this "public static myScheduleList" field final(Á¦ˆŒ8œñ¾—.
+p
+java:S3776İ"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ŸâÙ³8âÒŒÍ—.
+Y	java:S125Œ"<This block of commented-out lines of code should be removed.(Ùêİõ8ŠİÊÈ—.
+:
+java:S2386g"Make this member "protected".(Á¦ˆŒ8œñ¾—.
+L
+java:S3740f"/Provide the parametrized type for this generic.(éüŒ8çäò·¦.
+H
+java:S1481Ö"+Remove this unused "dayNum" local variable.(è¾Ù8œñ¾—.
+Y	java:S125”"<This block of commented-out lines of code should be removed.(êˆÂ—8âÒŒÍ—.
+9
+java:S2386Z"Make this member "protected".(¿¥×Q8œñ¾—.
+L
+java:S3740f"/Provide the parametrized type for this generic.(éüŒ8çäò·¦.
+p
+java:S2259Õ"MA "NullPointerException" could be thrown; "dateOfArrayList" is nullable here.(Üí¼ôûÿÿÿÿ8âÒŒÍ—.
+X	java:S125_"<This block of commented-out lines of code should be removed.(İĞ—À8œñ¾—.
+F
+java:S1148´"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8»Úü»˜.
+Y	java:S125Û"<This block of commented-out lines of code should be removed.(êˆÂ—8âÒŒÍ—.
+^	java:S125’"<This block of commented-out lines of code should be removed.(Àµ®ãüÿÿÿÿ8œñ¾—.
+[
+java:S1444X"9Make this "public static recyclerViewAdapter" field final(´ı¦ğıÿÿÿÿ8œñ¾—.
+
+java:S1104T"]Make arrayListSchedule a static final constant or non-public and provide accessors if needed.(òŠºÎüÿÿÿÿ8ÁÅÊ›•.
+Ÿ
+java:S1186‹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Œœ¢8œñ¾—.
+M
+java:S3740®"/Provide the parametrized type for this generic.(ÒùÆ°8çäò·¦.
+€
+java:S1450c"^Remove the "workScheduleBtn" field and declare it as a local variable in the relevant methods.(Ò×¬úüÿÿÿÿ8œñ¾—.
+T
+java:S2696›"6Make the enclosing method "static" or remove this set.(®ò¿£8¯©Ûâ—.
+p
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(‡ëœ 8âÒŒÍ—.
+^	java:S125”"<This block of commented-out lines of code should be removed.(½Ò¥íúÿÿÿÿ8ŠİÊÈ—.
+Ÿ
+java:S1186†"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Œœ¢8œñ¾—.
+p
+java:S1450O"SRemove the "mCal" field and declare it as a local variable in the relevant methods.(©¦¤½8œñ¾—.
+€
+java:S1104^"^Make arrayListTimeStamp a static final constant or non-public and provide accessors if needed.(ßŠÔüÿÿÿÿ8œñ¾—.
+T
+java:S2696ğ"6Make the enclosing method "static" or remove this set.(˜½°î8âÒŒÍ—.
+?
+java:S2386^"Make this member "protected".(ßŠÔüÿÿÿÿ8œñ¾—.
+
+java:S1104W"bMake arrayListOtherSchedule a static final constant or non-public and provide accessors if needed.(‘¾Ë„8 Ñ­ñ”.
+|
+java:S1104Z"`Make arrayListAllSchedule a static final constant or non-public and provide accessors if needed.(¿¥×Q8 Ñ­ñ”.
+u
+java:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 70 to the 15 allowed.(ù® êşÿÿÿÿ8ŠİÊÈ—.
+^	java:S125Ü"<This block of commented-out lines of code should be removed.(«¶€½şÿÿÿÿ8œñ¾—.
+Y
+java:S1068c"7Remove this unused "exerciseScheduleBtn" private field.(Ò×¬úüÿÿÿÿ8œñ¾—.
+Y	java:S125¦"<This block of commented-out lines of code should be removed.(¹µ…ş8ŠİÊÈ—.
+‚
+java:S1149¸"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ8âÒŒÍ—.
+G
+java:S1068R"*Remove this unused "editor" private field.(–ñèˆ8œñ¾—.
+P
+java:S1444f"3Make this "public static signUpHashMap" field final(éüŒ8ÁÅÊ›•.
+:
+java:S2386f"Make this member "protected".(éüŒ8ÁÅÊ›•.
+d
+java:S1144í"FRemove this unused private "getSwitchDataFromSharedPreference" method.(•ë¤8âÒŒÍ—.
+W
+java:S1854Ö":Remove this useless assignment to local variable "dayNum".(è¾Ù8œñ¾—.
+›
+java:S1319Z"The type of the "arrayListAllSchedule" object should be an interface such as "List" rather than the implementation "ArrayList".(¿¥×Q8œñ¾—.
+v
+java:S1104f"YMake signUpHashMap a static final constant or non-public and provide accessors if needed.(éüŒ8ÁÅÊ›•.
+?
+java:S2386T"Make this member "protected".(òŠºÎüÿÿÿÿ8œñ¾—.
+Y	java:S125“"<This block of commented-out lines of code should be removed.(Å®8œñ¾—.
+x
+java:S1450c"VRemove the "exitBtn" field and declare it as a local variable in the relevant methods.(Ò×¬úüÿÿÿÿ8œñ¾—.
+I
+java:S1659c"'Declare "logoutBtn" on a separate line.(Ò×¬úüÿÿÿÿ8œñ¾—.
+|
+java:S1450c"ZRemove the "settingsBtn" field and declare it as a local variable in the relevant methods.(Ò×¬úüÿÿÿÿ8œñ¾—.
+„
+java:S1450c"bRemove the "personalScheduleBtn" field and declare it as a local variable in the relevant methods.(Ò×¬úüÿÿÿÿ8œñ¾—.
+F
+java:S1148ü"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ŠİÊÈ—.
+^
+java:S1854Ì"@Remove this useless assignment to local variable "curDayFormat".(Ñ´¼®8œñ¾—.
+O
+java:S1481Ì"1Remove this unused "curDayFormat" local variable.(Ñ´¼®8œñ¾—.
+Y
+java:S1444T"7Make this "public static arrayListSchedule" field final(òŠºÎüÿÿÿÿ8ÁÅÊ›•.
+S
+java:S1659c"1Declare "personalScheduleBtn" on a separate line.(Ò×¬úüÿÿÿÿ8œñ¾—.
+Y	java:S125Ô"<This block of commented-out lines of code should be removed.(…ÓŒÿ8âÒŒÍ—.
+Y	java:S125"<This block of commented-out lines of code should be removed.(Á¢õş8âÒŒÍ—.
+}
+java:S1149À"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(×“²Ù8âÒŒÍ—.
+o	java:S116h"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¦€şÿÿÿÿ8œñ¾—.
+Ÿ
+java:S1319W"The type of the "arrayListOtherSchedule" object should be an interface such as "List" rather than the implementation "ArrayList".(‘¾Ë„8œñ¾—.
+a
+java:S1444["?Make this "public static recyclerViewByDateAdapter" field final(®ªÀ˜üÿÿÿÿ8œñ¾—.
+Y
+java:S2696ò"6Make the enclosing method "static" or remove this set.(áêì¡üÿÿÿÿ8âÒŒÍ—.
+Y
+java:S2696’"6Make the enclosing method "static" or remove this set.(áêì¡üÿÿÿÿ8ŠİÊÈ—.
+
+java:S1104X"_Make recyclerViewAdapter a static final constant or non-public and provide accessors if needed.(´ı¦ğıÿÿÿÿ8œñ¾—.
+S
+java:S1659c"1Declare "exerciseScheduleBtn" on a separate line.(Ò×¬úüÿÿÿÿ8œñ¾—.
+O
+java:S1444]"2Make this "public static refTimestamp" field final(ëÈÏœ8Û¦¼•.
+M
+java:S1066ñ"/Merge this if statement with the enclosing one.(ÕÉ´ß8ŠİÊÈ—.
+…
+java:S1450e"cRemove the "floatingActionButton" field and declare it as a local variable in the relevant methods.(¨”†úÿÿÿÿ8œñ¾—.
+G
+java:S1659c"%Declare "exitBtn" on a separate line.(Ò×¬úüÿÿÿÿ8œñ¾—.
+M
+java:S1659c"+Declare "statisticsBtn" on a separate line.(Ò×¬úüÿÿÿÿ8œñ¾—.
+K
+java:S1659c")Declare "settingsBtn" on a separate line.(Ò×¬úüÿÿÿÿ8œñ¾—.
+Ÿ
+java:S1319^"}The type of the "arrayListTimeStamp" object should be an interface such as "List" rather than the implementation "ArrayList".(ßŠÔüÿÿÿÿ8œñ¾—.
+…
+java:S1488¯"bImmediately return this expression instead of assigning it to the temporary variable "storageDir".(ŒÃ¢üÿÿÿÿ8âÒŒÍ—.
+x
+java:S1192ì"UDefine a constant instead of duplicating this literal "userEmail@google.com" 4 times.(É¿ã¯üÿÿÿÿ8âÒŒÍ—.
+u
+java:S1104]"XMake refTimestamp a static final constant or non-public and provide accessors if needed.(ëÈÏœ8Û¦¼•.
+Z
+java:S1444^"8Make this "public static arrayListTimeStamp" field final(ßŠÔüÿÿÿÿ8œñ¾—.
+?
+java:S1110ô"!Remove these useless parentheses.(Ò´˜Ã8ŠİÊÈ—.
+Y	java:S125³"<This block of commented-out lines of code should be removed.(ûÚİ8œñ¾—.
+O
+java:S1444U"-Make this "public static adapter" field final(ó´ñ•şÿÿÿÿ8œñ¾—.
+:
+java:S2386W"Make this member "protected".(‘¾Ë„8œñ¾—.
+Y
+java:S2696è"6Make the enclosing method "static" or remove this set.(‹¬Üàøÿÿÿÿ8âÒŒÍ—.
+Ÿ
+java:S1186¨"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Œœ¢8¦¥Şâ—.
+S
+java:S1068c"1Remove this unused "statisticsBtn" private field.(Ò×¬úüÿÿÿÿ8œñ¾—.
+w
+java:S1104g"ZMake myScheduleList a static final constant or non-public and provide accessors if needed.(Á¦ˆŒ8œñ¾—.
+z
+java:S1450c"XRemove the "logoutBtn" field and declare it as a local variable in the relevant methods.(Ò×¬úüÿÿÿÿ8œñ¾—.
+g
+java:S1144¤"IRemove this unused private "getStudyScheduleFromSharedPreference" method.(‡ëœ 8âÒŒÍ—.
+‡
+java:S1104["eMake recyclerViewByDateAdapter a static final constant or non-public and provide accessors if needed.(®ªÀ˜üÿÿÿÿ8œñ¾—.
+Ÿ
+java:S1186Œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Œœ¢8âÒŒÍ—.
+V
+java:S1444Z":Make this "public static arrayListAllSchedule" field final(¿¥×Q8 Ñ­ñ”.
+Y	java:S125Ô"<This block of commented-out lines of code should be removed.(Á¢õş8âÒŒÍ—.
+
+java:S1319T"|The type of the "arrayListSchedule" object should be an interface such as "List" rather than the implementation "ArrayList".(òŠºÎüÿÿÿÿ8œñ¾—.
+Y
+java:S2696¡"6Make the enclosing method "static" or remove this set.(¹™Æ¯ÿÿÿÿÿ8âÒŒÍ—.
+^	java:S125ñ"<This block of commented-out lines of code should be removed.(æÀö€øÿÿÿÿ8ŠİÊÈ—.
+u
+java:S1104U"SMake adapter a static final constant or non-public and provide accessors if needed.(ó´ñ•şÿÿÿÿ8œñ¾—.
+^	java:S125…"<This block of commented-out lines of code should be removed.(Àµ®ãüÿÿÿÿ8œñ¾—.
+F
+java:S1148Ñ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8âÒŒÍ—.
+X
+java:S1141¯"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8»Úü»˜.
+Y
+java:S1444W"<Make this "public static arrayListOtherSchedule" field final(‘¾Ë„8 Ñ­ñ”.
+g
+java:S1144İ"IRemove this unused private "getOtherScheduleFromSharedPreference" method.(ŸâÙ³8âÒŒÍ—.

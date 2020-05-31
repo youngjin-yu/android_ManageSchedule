@@ -1,0 +1,40 @@
+
+Q
+java:S14449";Make this "public static entranceOtherSchedule" field final(İÁÔå
+w
+java:S11049"aMake entranceOtherSchedule a static final constant or non-public and provide accessors if needed.(İÁÔå
+S
+java:S1444A"8Make this "public static countOtherSchedule" field final( ·œùÿÿÿÿ
+s
+java:S11044"]Make notifyDescription a static final constant or non-public and provide accessors if needed.(×——
+w
+java:S11047"aMake entranceStudySchedule a static final constant or non-public and provide accessors if needed.(Ãİ¿Š
+{
+java:S1104;"`Make entranceMainActivity a static final constant or non-public and provide accessors if needed.(ÙÊûüÿÿÿÿ
+N
+java:S1444?"8Make this "public static countStudySchedule" field final(ô—û 
+|
+java:S1104="aMake entranceLoginActivity a static final constant or non-public and provide accessors if needed.(ÕÕœºùÿÿÿÿ
+t
+java:S1104?"^Make countStudySchedule a static final constant or non-public and provide accessors if needed.(ô—û 
+Q
+java:S14447";Make this "public static entranceStudySchedule" field final(Ãİ¿Š
+M
+java:S14444"7Make this "public static notifyDescription" field final(×——
+n	java:S115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘á¾o
+V
+java:S1444=";Make this "public static entranceLoginActivity" field final(ÕÕœºùÿÿÿÿ
+H
+java:S1444M"2Make this "public static isServiceRun" field final(Â–Š
+n
+java:S1104M"XMake isServiceRun a static final constant or non-public and provide accessors if needed.(Â–Š
+U
+java:S1444;":Make this "public static entranceMainActivity" field final(ÙÊûüÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Ø¡²›ÿÿÿÿÿ
+G
+java:S14442"1Make this "public static notifyTitle" field final(çû˜ò
+y
+java:S1104A"^Make countOtherSchedule a static final constant or non-public and provide accessors if needed.( ·œùÿÿÿÿ
+m
+java:S11042"WMake notifyTitle a static final constant or non-public and provide accessors if needed.(çû˜ò
